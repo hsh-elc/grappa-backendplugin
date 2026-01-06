@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>grappa-backendplugin</artifactId>
     <groupId>de.hsh.grappa</groupId>
-    <version>0.3.0</version>
+    <version>0.3.1</version>
 
     <name>grappa-backendplugin</name>
     <description>Provides the base class of all grader-specific backend plugins of the grappa-webservice</description>
@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
-		<proforma.version>0.4.0</proforma.version>
+		<proforma.version>0.4.1</proforma.version>
     </properties>
 
 

@@ -5,7 +5,7 @@ set -e # exit on first error
 MVNOPTS=""
 CURLOPTS=""
 VERBOSE="1"
-GBPLIBVER=0.3.0
+GBPLIBVER=0.3.1
 TMPDIR=/tmp
 
 unameOut="$(uname -s)"
